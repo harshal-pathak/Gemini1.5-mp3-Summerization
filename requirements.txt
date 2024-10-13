@@ -7,4 +7,3 @@ pytube
 ctransformers
 git+https://github.com/openai/whisper.git 
 llama-cpp-python
-faiss_cpu
